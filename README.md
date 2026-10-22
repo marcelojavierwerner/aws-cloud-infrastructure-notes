@@ -95,16 +95,18 @@ Esta infraestructura no es solo un ejercicio de administración, sino la arquite
 | Badge / Certificación | Emisor | Estado |
 | :--- | :--- | :--- |
 | **AWS Academy Graduate - Cloud Foundations** | Amazon Web Services (AWS) |  Obtenido |
-[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-orange?style=for-the-badge&logo=amazon-aws)]((https://www.credly.com/badges/6a0adf6b-1db5-4a64-a182-58c4f2ebc547/linked_in_profile))
 
 > *Los laboratorios y arquitecturas documentados en este repositorio respaldan los conocimientos prácticos requeridos para la acreditación AWS Academy Cloud Foundations.*
+
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/6a0adf6b-1db5-4a64-a182-58c4f2ebc547/linked_in_profile)
 
 ---
 ## 👤 Autor
 
 **Marcelo Javier Werner**  
 *Data Science Student | Software & Cloud Infrastructure Enthusiast* 
-🎓 **AWS Academy Graduate - Cloud Foundations**
+*🎓 **AWS Academy Graduate - Cloud Foundations**
+
 * **LinkedIn:** [https://www.linkedin.com/in/marcelowerner/]
 * **GitHub:** [https://github.com/marcelojavierwerner]
 * **Proyecto:** SerWer Data Lab
